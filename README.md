@@ -1,6 +1,10 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis: 
+### Explain the purpose of this analysis.
+
+An analysis was performed on all standardized testing data and school budget information to provide insights about performance trends to the PyCity school district.  The analysis and reporting help the school district make informed descisions to improve student outcomes.  It was determined that the standardized testing data at a highschool in the PyCity School district has been compromised due to cheating and testing irregularities.  The 9th greade data for Thomas High school will be removed.  All standardized testing data for the district will be re-analyzed and compared to determine how removing ninth grade scores will affect Thomas High School's performance relative to other schools. 
+
 
 ## Results: 
 ### Using bulleted lists and images of DataFrames as support, address the following questions.
