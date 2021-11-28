@@ -4,6 +4,15 @@
 ### Explain the purpose of this analysis.
 
 An analysis was performed on all standardized testing data and school budget information to provide insights about performance trends to the PyCity school district.  The analysis and reporting help the school district make informed descisions to improve student outcomes.  It was determined that the standardized testing data at a highschool in the PyCity School district has been compromised due to cheating and testing irregularities.  The 9th greade data for Thomas High school will be removed.  All standardized testing data for the district will be re-analyzed and compared to determine how removing ninth grade scores will affect Thomas High School's performance relative to other schools. 
+ 
+## Process:
+Original Thomas High School Ninth Grade Math and Reading Scores
+<img width="637" alt="Before THS Test Score Replacement" src="https://user-images.githubusercontent.com/37478490/143772256-4be34cec-ca99-4bbf-8826-642cd4ef3e5e.png">
+
+Replace the Thomas High School Ninth Grade Math and Reading Scores with "Nan"
+<img width="637" alt="After THS Test Score Replacement" src="https://user-images.githubusercontent.com/37478490/143772117-f990c6f7-0cad-4343-bff9-26b51d875a8e.png">
+
+
 
 
 ## Results: 
